@@ -1,4 +1,4 @@
-Simple-php-file-manager-example
+file-MIS-php-example
 ===============================
 
 This is the most simple file using php.
